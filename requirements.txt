@@ -1,0 +1,4 @@
+Django==1.10.6
+djangorestframework==3.5.4
+httpie==0.9.9
+Pygments==2.2.0
